@@ -38,3 +38,4 @@ This project investigates:
 | Goal | Evade automated phishing detection |
 
 ---
+Data_credit: https://doi.org/10.34740/kaggle/ds/5074342
