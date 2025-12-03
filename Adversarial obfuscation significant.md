@@ -1,7 +1,7 @@
 # Social Engineering & Adversarial Obfuscation  
 ### in Business Email Compromise (BEC) Attacks
 
-> **A research-grade analysis of how Unicode-based adversarial techniques undermine NLP-driven email security — and how character-level models recover lost signal.**
+> **Analysis of how Unicode-based adversarial techniques undermine NLP-driven email security — and how character-level models recover lost signal.**
 
 ---
 
